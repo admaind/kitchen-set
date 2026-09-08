@@ -1,0 +1,2670 @@
+{
+  "version": 1,
+  "demo": false,
+  "note": "Каталог сформирован по официальному YML-фиду exiteq.by от 2026-09-08 11:49. Цены, наличие, ссылки и изображения взяты из фида; параметры нормализованы по официальным страницам категорий и обозначениям моделей.",
+  "products": [
+    {
+      "id": "exiteq-1436",
+      "groupId": "oven",
+      "name": "Электрический духовой шкаф EXITEQ EXO-303",
+      "series": "Духовые шкафы",
+      "description": "Электрический · 69 л · 60 см",
+      "price": 1049,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1436/exo-303-1.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/built-in-electric-oven/exo-303/",
+      "attributes": {
+        "width": 60,
+        "convection": true,
+        "volume": 69
+      }
+    },
+    {
+      "id": "exiteq-1506",
+      "groupId": "oven",
+      "name": "Электрический духовой шкаф EXITEQ EXO-105 black",
+      "series": "Духовые шкафы",
+      "description": "Электрический · 73 л · 60 см",
+      "price": 979,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1506/exo-105-black-1.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/built-in-electric-oven/exo-105-black/",
+      "attributes": {
+        "width": 60,
+        "convection": true,
+        "volume": 73
+      }
+    },
+    {
+      "id": "exiteq-1507",
+      "groupId": "oven",
+      "name": "Электрический духовой шкаф EXITEQ EXO-105 white",
+      "series": "Духовые шкафы",
+      "description": "Электрический · 73 л · 60 см",
+      "price": 1049,
+      "currency": "BYN",
+      "color": "white",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1507/exo-105-white-01.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/built-in-electric-oven/exo-105-white/",
+      "attributes": {
+        "width": 60,
+        "convection": true,
+        "volume": 73
+      }
+    },
+    {
+      "id": "exiteq-1543",
+      "groupId": "oven",
+      "name": "Электрический духовой шкаф EXITEQ EXO-106 black",
+      "series": "Духовые шкафы",
+      "description": "Электрический · 46 л · 45 см",
+      "price": 1049,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1543/exo-106-black-1.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/built-in-electric-oven/exo-106-black/",
+      "attributes": {
+        "width": 45,
+        "convection": true,
+        "volume": 46
+      }
+    },
+    {
+      "id": "exiteq-1617",
+      "groupId": "oven",
+      "name": "Электрический духовой шкаф EXITEQ EXO-404",
+      "series": "Духовые шкафы",
+      "description": "Электрический · 70 л · 60 см",
+      "price": 1529,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1617/exo-404v.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/built-in-electric-oven/exo-404/",
+      "attributes": {
+        "width": 60,
+        "convection": true,
+        "volume": 70
+      }
+    },
+    {
+      "id": "exiteq-1619",
+      "groupId": "oven",
+      "name": "Электрический духовой шкаф EXITEQ EXO-402",
+      "series": "Духовые шкафы",
+      "description": "Электрический · 70 л · 60 см",
+      "price": 1349,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1619/exo-402-1.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/built-in-electric-oven/exo-402/",
+      "attributes": {
+        "width": 60,
+        "convection": true,
+        "volume": 70
+      }
+    },
+    {
+      "id": "exiteq-1667",
+      "groupId": "oven",
+      "name": "Электрический духовой шкаф EXITEQEXO-402 WHITE",
+      "series": "Духовые шкафы",
+      "description": "Электрический · 70 л · 60 см",
+      "price": 1399,
+      "currency": "BYN",
+      "color": "white",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1667/exo-402-white-1.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/built-in-electric-oven/exo-402-white/",
+      "attributes": {
+        "width": 60,
+        "convection": true,
+        "volume": 70
+      }
+    },
+    {
+      "id": "exiteq-1987",
+      "groupId": "oven",
+      "name": "Электрический духовой шкаф EXITEQ EXO-107 black",
+      "series": "Духовые шкафы",
+      "description": "Электрический · 72 л · 60 см",
+      "price": 949,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1987/exo-107-black-01-1020.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/built-in-electric-oven/exo-107-black/",
+      "attributes": {
+        "width": 60,
+        "convection": true,
+        "volume": 72
+      }
+    },
+    {
+      "id": "exiteq-1988",
+      "groupId": "oven",
+      "name": "Электрический духовой шкаф EXITEQ EXO-108 black",
+      "series": "Духовые шкафы",
+      "description": "Электрический · 69 л · 60 см",
+      "price": 999,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1988/exiteq-exo-108-black-01.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/built-in-electric-oven/exo-108-black/",
+      "attributes": {
+        "width": 60,
+        "convection": true,
+        "volume": 69
+      }
+    },
+    {
+      "id": "exiteq-1989",
+      "groupId": "oven",
+      "name": "Электрический духовой шкаф EXITEQ EXO-109 black",
+      "series": "Духовые шкафы",
+      "description": "Электрический · 69 л · 60 см",
+      "price": 1499,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1989/exiteq-exo-109-black-000.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/built-in-electric-oven/exo-109-black/",
+      "attributes": {
+        "width": 60,
+        "convection": true,
+        "volume": 69
+      }
+    },
+    {
+      "id": "exiteq-2143",
+      "groupId": "oven",
+      "name": "Электрический духовой шкаф EXITEQ EXO-110 black",
+      "series": "Духовые шкафы",
+      "description": "Электрический · 69 л · 60 см",
+      "price": 1299,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2143/110-0.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/built-in-electric-oven/exo-110-black/",
+      "attributes": {
+        "width": 60,
+        "convection": true,
+        "volume": 69
+      }
+    },
+    {
+      "id": "exiteq-2275",
+      "groupId": "oven",
+      "name": "Электрический духовой шкаф EXITEQ EXO-111",
+      "series": "Духовые шкафы",
+      "description": "Электрический · 72 л · 60 см",
+      "price": 1799,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2275/exiteq-oven-exo-111-total-black.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/built-in-electric-oven/exo-111/",
+      "attributes": {
+        "width": 60,
+        "convection": true,
+        "volume": 72
+      }
+    },
+    {
+      "id": "exiteq-2279",
+      "groupId": "oven",
+      "name": "Электрический духовой шкаф EXITEQ EXO-112",
+      "series": "Духовые шкафы",
+      "description": "Электрический · 72 л · 60 см",
+      "price": 1599,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2279/exo-112-exiteq-oven.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/built-in-electric-oven/exo-112/",
+      "attributes": {
+        "width": 60,
+        "convection": true,
+        "volume": 72
+      }
+    },
+    {
+      "id": "exiteq-2374",
+      "groupId": "oven",
+      "name": "Электрический духовой шкаф EXITEQ EXO-113",
+      "series": "Духовые шкафы",
+      "description": "Электрический · 72 л · 60 см",
+      "price": 1349,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2374/exo-113-total-black.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/built-in-electric-oven/exo-113/",
+      "attributes": {
+        "width": 60,
+        "convection": true,
+        "volume": 72
+      }
+    },
+    {
+      "id": "exiteq-2375",
+      "groupId": "oven",
+      "name": "Электрический духовой шкаф EXITEQ EXO-114",
+      "series": "Духовые шкафы",
+      "description": "Электрический · 72 л · 60 см",
+      "price": 1199,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2375/exo-114-handle-black-01.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/built-in-electric-oven/exo-114/",
+      "attributes": {
+        "width": 60,
+        "convection": true,
+        "volume": 72
+      }
+    },
+    {
+      "id": "exiteq-2380",
+      "groupId": "oven",
+      "name": "Электрический духовой шкаф EXITEQ EXO-199 Primero",
+      "series": "Духовые шкафы",
+      "description": "Электрический · 72 л · 60 см",
+      "price": 2099,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2380/exo-199-primero-01.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/built-in-electric-oven/exo-199-primero/",
+      "attributes": {
+        "width": 60,
+        "convection": true,
+        "volume": 72
+      }
+    },
+    {
+      "id": "exiteq-2411",
+      "groupId": "oven",
+      "name": "Электрический духовой шкаф EXITEQ EXO-107 white",
+      "series": "Духовые шкафы",
+      "description": "Электрический · 72 л · 60 см",
+      "price": 1079,
+      "currency": "BYN",
+      "color": "white",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2411/exo-107-white-01.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/built-in-electric-oven/exo-107-white/",
+      "attributes": {
+        "width": 60,
+        "convection": true,
+        "volume": 72
+      }
+    },
+    {
+      "id": "exiteq-2412",
+      "groupId": "oven",
+      "name": "Электрический духовой шкаф EXITEQ EXO-111 white",
+      "series": "Духовые шкафы",
+      "description": "Электрический · 72 л · 60 см",
+      "price": 1899,
+      "currency": "BYN",
+      "color": "white",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2412/exo-111-white-01.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/built-in-electric-oven/exo-111-white/",
+      "attributes": {
+        "width": 60,
+        "convection": true,
+        "volume": 72
+      }
+    },
+    {
+      "id": "exiteq-355",
+      "groupId": "hob",
+      "name": "Газовая варочная панель EXITEQ PF 640 STGW-E/А",
+      "series": "Газовые панели",
+      "description": "Газовая · 4 конфорки · 60 см",
+      "price": 879,
+      "currency": "BYN",
+      "color": "white",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/355/pf640stgw-ea-4.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/gazovyie-poverxnosti/pf640stgw-e-a/",
+      "attributes": {
+        "power": "gas",
+        "width": 60,
+        "burners": 4,
+        "childLock": false
+      }
+    },
+    {
+      "id": "exiteq-376",
+      "groupId": "hob",
+      "name": "Газовая варочная панель EXITEQ PF 640 STX-E/A",
+      "series": "Газовые панели",
+      "description": "Газовая · 4 конфорки · 60 см",
+      "price": 829,
+      "currency": "BYN",
+      "color": "steel",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/376/pf640stx-ea-1.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/gazovyie-poverxnosti/pf640stx-e-a/",
+      "attributes": {
+        "power": "gas",
+        "width": 60,
+        "burners": 4,
+        "childLock": false
+      }
+    },
+    {
+      "id": "exiteq-379",
+      "groupId": "hob",
+      "name": "Газовая варочная панель EXITEQ PL 640 STG-E/А",
+      "series": "Газовые панели",
+      "description": "Газовая · 4 конфорки · 60 см",
+      "price": 699,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/379/pl640stg-ea1.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/gazovyie-poverxnosti/pl640stg-e-a/",
+      "attributes": {
+        "power": "gas",
+        "width": 60,
+        "burners": 4,
+        "childLock": false
+      }
+    },
+    {
+      "id": "exiteq-380",
+      "groupId": "hob",
+      "name": "Газовая варочная панель EXITEQ PFH 750 STG-E",
+      "series": "Газовые панели",
+      "description": "Газовая · 5 конфорки · 70 см",
+      "price": 849,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/380/pfh-750-stg-e-black-01.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/gazovyie-poverxnosti/pfh750stg-e/",
+      "attributes": {
+        "power": "gas",
+        "width": 70,
+        "burners": 5,
+        "childLock": false
+      }
+    },
+    {
+      "id": "exiteq-383",
+      "groupId": "hob",
+      "name": "Газовая варочная панель EXITEQ PFH 640 STGB-E/B",
+      "series": "Газовые панели",
+      "description": "Газовая · 4 конфорки · 60 см",
+      "price": 729,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/383/pfh640stgb-eb-1.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/gazovyie-poverxnosti/pfh640stgb-e-b/",
+      "attributes": {
+        "power": "gas",
+        "width": 60,
+        "burners": 4,
+        "childLock": false
+      }
+    },
+    {
+      "id": "exiteq-386",
+      "groupId": "hob",
+      "name": "Газовая варочная панель EXITEQ PF 640 STGB-E/А",
+      "series": "Газовые панели",
+      "description": "Газовая · 4 конфорки · 60 см",
+      "price": 849,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/386/exiteq-pfh640stge-a.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/gazovyie-poverxnosti/pf-640stgv-e-a/",
+      "attributes": {
+        "power": "gas",
+        "width": 60,
+        "burners": 4,
+        "childLock": false
+      }
+    },
+    {
+      "id": "exiteq-1143",
+      "groupId": "hob",
+      "name": "Газовая варочная панель EXITEQ EXH-202",
+      "series": "Газовые панели",
+      "description": "Газовая · 3 конфорки · 45 см",
+      "price": 629,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1143/exo-202-1.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/gazovyie-poverxnosti/exh-202/",
+      "attributes": {
+        "power": "gas",
+        "width": 45,
+        "burners": 3,
+        "childLock": false
+      }
+    },
+    {
+      "id": "exiteq-1603",
+      "groupId": "hob",
+      "name": "Индукционная варочная панель EXITEQ EXH-313IB",
+      "series": "Индукционные панели",
+      "description": "Индукционная · 4 конфорки · 60 см",
+      "price": 799,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1603/exh-313ib-1.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/induction/exh-313ib/",
+      "attributes": {
+        "power": "induction",
+        "width": 60,
+        "burners": 4,
+        "childLock": true
+      }
+    },
+    {
+      "id": "exiteq-1607",
+      "groupId": "hob",
+      "name": "Индукционная варочная панель EXITEQ EXH-315IB",
+      "series": "Индукционные панели",
+      "description": "Индукционная · 4 конфорки · 60 см",
+      "price": 599,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1607/exh-315ib-1.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/induction/exh-315ib/",
+      "attributes": {
+        "power": "induction",
+        "width": 60,
+        "burners": 4,
+        "childLock": true
+      }
+    },
+    {
+      "id": "exiteq-1672",
+      "groupId": "hob",
+      "name": "Газовая варочная панель EXITEQ EXH-204",
+      "series": "Газовые панели",
+      "description": "Газовая · 4 конфорки · 60 см",
+      "price": 879,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1672/exh-204-1.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/gazovyie-poverxnosti/exh-204/",
+      "attributes": {
+        "power": "gas",
+        "width": 60,
+        "burners": 4,
+        "childLock": false
+      }
+    },
+    {
+      "id": "exiteq-1778",
+      "groupId": "hob",
+      "name": "Индукционная варочная панель EXITEQ EXH-316IB",
+      "series": "Индукционные панели",
+      "description": "Индукционная · 4 конфорки · 60 см",
+      "price": 599,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1778/img-6577.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/induction/exh-316ib/",
+      "attributes": {
+        "power": "induction",
+        "width": 60,
+        "burners": 4,
+        "childLock": true
+      }
+    },
+    {
+      "id": "exiteq-1779",
+      "groupId": "hob",
+      "name": "Индукционная варочная панель EXITEQ EXH-318IB",
+      "series": "Индукционные панели",
+      "description": "Индукционная · 4 конфорки · 60 см",
+      "price": 807,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1779/img-6679.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/induction/exh-318/",
+      "attributes": {
+        "power": "induction",
+        "width": 60,
+        "burners": 4,
+        "childLock": true
+      }
+    },
+    {
+      "id": "exiteq-1782",
+      "groupId": "hob",
+      "name": "Газовая варочная панель EXITEQ EXH-204 white",
+      "series": "Газовые панели",
+      "description": "Газовая · 4 конфорки · 60 см",
+      "price": 899,
+      "currency": "BYN",
+      "color": "white",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1782/exh-204-(1).png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/gazovyie-poverxnosti/exh-204-white/",
+      "attributes": {
+        "power": "gas",
+        "width": 60,
+        "burners": 4,
+        "childLock": false
+      }
+    },
+    {
+      "id": "exiteq-2167",
+      "groupId": "hob",
+      "name": "Индукционная варочная панель EXITEQ EXH-EXH-501IB",
+      "series": "Индукционные панели",
+      "description": "Индукционная · 4 конфорки · 60 см",
+      "price": 629,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2167/exh-501ib-b2.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/induction/exh-501ib/",
+      "attributes": {
+        "power": "induction",
+        "width": 60,
+        "burners": 4,
+        "childLock": true
+      }
+    },
+    {
+      "id": "exiteq-2168",
+      "groupId": "hob",
+      "name": "Индукционная варочная панель EXITEQ EXH-502IB",
+      "series": "Индукционные панели",
+      "description": "Индукционная · 4 конфорки · 60 см",
+      "price": 699,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2168/exh-502ib-graph-0.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/induction/exh-502ib/",
+      "attributes": {
+        "power": "induction",
+        "width": 60,
+        "burners": 4,
+        "childLock": true
+      }
+    },
+    {
+      "id": "exiteq-2169",
+      "groupId": "hob",
+      "name": "Индукционная варочная панель EXITEQ EXH-503IB",
+      "series": "Индукционные панели",
+      "description": "Индукционная · 4 конфорки · 60 см",
+      "price": 738,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2169/exh-503ib.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/induction/exh-503ib/",
+      "attributes": {
+        "power": "induction",
+        "width": 60,
+        "burners": 4,
+        "childLock": true
+      }
+    },
+    {
+      "id": "exiteq-2170",
+      "groupId": "hob",
+      "name": "Индукционная варочная панель EXITEQ EXH-504IB",
+      "series": "Индукционные панели",
+      "description": "Индукционная · 4 конфорки · 60 см",
+      "price": 799,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2170/exh-504ib.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/induction/exh-504ib/",
+      "attributes": {
+        "power": "induction",
+        "width": 60,
+        "burners": 4,
+        "childLock": true
+      }
+    },
+    {
+      "id": "exiteq-2171",
+      "groupId": "hob",
+      "name": "Индукционная варочная панель EXITEQ EXH-504IW",
+      "series": "Индукционные панели",
+      "description": "Индукционная · 4 конфорки · 60 см",
+      "price": 849,
+      "currency": "BYN",
+      "color": "white",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2171/504w-v2.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/induction/exh-504iw/",
+      "attributes": {
+        "power": "induction",
+        "width": 60,
+        "burners": 4,
+        "childLock": true
+      }
+    },
+    {
+      "id": "exiteq-2173",
+      "groupId": "hob",
+      "name": "Индукционная варочная панель EXITEQ EXH-506IB",
+      "series": "Индукционные панели",
+      "description": "Индукционная · 2 конфорки · 30 см",
+      "price": 319,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2173/exh-506-09-(2).png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/induction/exh-506ib/",
+      "attributes": {
+        "power": "induction",
+        "width": 30,
+        "burners": 2,
+        "childLock": true
+      }
+    },
+    {
+      "id": "exiteq-2174",
+      "groupId": "hob",
+      "name": "Индукционная варочная панель EXITEQ EXH-507IB",
+      "series": "Индукционные панели",
+      "description": "Индукционная · 2 конфорки · 30 см",
+      "price": 349,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2174/exh-507ib.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/induction/exh-507ib/",
+      "attributes": {
+        "power": "induction",
+        "width": 30,
+        "burners": 2,
+        "childLock": true
+      }
+    },
+    {
+      "id": "exiteq-2179",
+      "groupId": "hob",
+      "name": "Электрическая варочная панель EXITEQ EXH-512CB",
+      "series": "Электрические панели",
+      "description": "Электрическая · 4 конфорки · 60 см",
+      "price": 499,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2179/exh-512cb.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/ceramic-hob/exh-512cb/",
+      "attributes": {
+        "power": "electric",
+        "width": 60,
+        "burners": 4,
+        "childLock": true
+      }
+    },
+    {
+      "id": "exiteq-2286",
+      "groupId": "hob",
+      "name": "Газовая варочная панель EXITEQ EXH-210 black",
+      "series": "Газовые панели",
+      "description": "Газовая · 2 конфорки · 30 см",
+      "price": 399,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2286/exh-210-black-01.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/gazovyie-poverxnosti/exh-210-black/",
+      "attributes": {
+        "power": "gas",
+        "width": 30,
+        "burners": 2,
+        "childLock": false
+      }
+    },
+    {
+      "id": "exiteq-2292",
+      "groupId": "hob",
+      "name": "Газовая варочная панель EXITEQ EXH-208 inox",
+      "series": "Газовые панели",
+      "description": "Газовая · 2 конфорки · 30 см",
+      "price": 399,
+      "currency": "BYN",
+      "color": "steel",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2292/exh-208-inox-01.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/gazovyie-poverxnosti/exh-208-inox/",
+      "attributes": {
+        "power": "gas",
+        "width": 30,
+        "burners": 2,
+        "childLock": false
+      }
+    },
+    {
+      "id": "exiteq-2293",
+      "groupId": "hob",
+      "name": "Газовая варочная панель EXITEQ EXH-206 inox",
+      "series": "Газовые панели",
+      "description": "Газовая · 3 конфорки · 45 см",
+      "price": 649,
+      "currency": "BYN",
+      "color": "steel",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2293/exh-206-inox-1.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/gazovyie-poverxnosti/exh-206-inox/",
+      "attributes": {
+        "power": "gas",
+        "width": 45,
+        "burners": 3,
+        "childLock": false
+      }
+    },
+    {
+      "id": "exiteq-2299",
+      "groupId": "hob",
+      "name": "Газовая варочная панель EXITEQ EXH-207 black",
+      "series": "Газовые панели",
+      "description": "Газовая · 4 конфорки · 60 см",
+      "price": 849,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2299/exh-207-black-new.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/gazovyie-poverxnosti/exh-207-black/",
+      "attributes": {
+        "power": "gas",
+        "width": 60,
+        "burners": 4,
+        "childLock": false
+      }
+    },
+    {
+      "id": "exiteq-2300",
+      "groupId": "hob",
+      "name": "Газовая варочная панель EXITEQ EXH-205 black",
+      "series": "Газовые панели",
+      "description": "Газовая · 5 конфорки · 70 см",
+      "price": 1399,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2300/exh-205-black-01.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/gazovyie-poverxnosti/exh-205-black/",
+      "attributes": {
+        "power": "gas",
+        "width": 70,
+        "burners": 5,
+        "childLock": false
+      }
+    },
+    {
+      "id": "exiteq-2301",
+      "groupId": "hob",
+      "name": "Газовая варочная панель EXITEQ EXH-209 inox",
+      "series": "Газовые панели",
+      "description": "Газовая · 5 конфорки · 70 см",
+      "price": 899,
+      "currency": "BYN",
+      "color": "steel",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2301/exh-209-inox-1.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/gazovyie-poverxnosti/exh-209-inox/",
+      "attributes": {
+        "power": "gas",
+        "width": 70,
+        "burners": 5,
+        "childLock": false
+      }
+    },
+    {
+      "id": "exiteq-2327",
+      "groupId": "hob",
+      "name": "Газовая варочная панель EXITEQ EXH-207 black matt",
+      "series": "Газовые панели",
+      "description": "Газовая · 4 конфорки · 60 см",
+      "price": 899,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2327/exh-207-black-matt-001.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/gazovyie-poverxnosti/exh-207-black-matt/",
+      "attributes": {
+        "power": "gas",
+        "width": 60,
+        "burners": 4,
+        "childLock": false
+      }
+    },
+    {
+      "id": "exiteq-2358",
+      "groupId": "hob",
+      "name": "Индукционная варочная панель EXITEQ EXH-EXH-514IB",
+      "series": "Индукционные панели",
+      "description": "Индукционная · 4 конфорки · 60 см",
+      "price": 549,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2358/exh-514ib-1.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/induction/exh-514ib/",
+      "attributes": {
+        "power": "induction",
+        "width": 60,
+        "burners": 4,
+        "childLock": true
+      }
+    },
+    {
+      "id": "exiteq-2359",
+      "groupId": "hob",
+      "name": "Индукционная варочная панель EXITEQ EXH-EXH-515IB",
+      "series": "Индукционные панели",
+      "description": "Индукционная · 4 конфорки · 60 см",
+      "price": 579,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2359/exh-515ib-1.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/induction/exh-515ib/",
+      "attributes": {
+        "power": "induction",
+        "width": 60,
+        "burners": 4,
+        "childLock": true
+      }
+    },
+    {
+      "id": "exiteq-2372",
+      "groupId": "hob",
+      "name": "Газовая варочная панель EXITEQ EXH-211",
+      "series": "Газовые панели",
+      "description": "Газовая · 4 конфорки · 60 см",
+      "price": 699,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2372/exh-211-01.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/gazovyie-poverxnosti/exh-211/",
+      "attributes": {
+        "power": "gas",
+        "width": 60,
+        "burners": 4,
+        "childLock": false
+      }
+    },
+    {
+      "id": "exiteq-2373",
+      "groupId": "hob",
+      "name": "Газовая варочная панель EXITEQ EXH-212",
+      "series": "Газовые панели",
+      "description": "Газовая · 4 конфорки · 60 см",
+      "price": 549,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2373/exh-212-01.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/gazovyie-poverxnosti/exh-212/",
+      "attributes": {
+        "power": "gas",
+        "width": 60,
+        "burners": 4,
+        "childLock": false
+      }
+    },
+    {
+      "id": "exiteq-2406",
+      "groupId": "hob",
+      "name": "Индукционная варочная панель EXITEQ EXH-517IB",
+      "series": "Индукционные панели",
+      "description": "Индукционная · 4 конфорки · 60 см",
+      "price": 1399,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2406/exh-517ib-balck-1.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/induction/exh-517ib/",
+      "attributes": {
+        "power": "induction",
+        "width": 60,
+        "burners": 4,
+        "childLock": true
+      }
+    },
+    {
+      "id": "exiteq-2407",
+      "groupId": "hob",
+      "name": "Индукционная варочная панель EXITEQ EXH-518IB",
+      "series": "Индукционные панели",
+      "description": "Индукционная · 4 конфорки · 60 см",
+      "price": 1099,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2407/exh-518-black-1.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/induction/exh-518ib/",
+      "attributes": {
+        "power": "induction",
+        "width": 60,
+        "burners": 4,
+        "childLock": true
+      }
+    },
+    {
+      "id": "exiteq-2408",
+      "groupId": "hob",
+      "name": "Индукционная варочная панель EXITEQ EXH-519IBM",
+      "series": "Индукционные панели",
+      "description": "Индукционная · 4 конфорки · 60 см",
+      "price": 1299,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2408/exh-519ibm-black-matt-1.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/induction/exh-519ibm/",
+      "attributes": {
+        "power": "induction",
+        "width": 60,
+        "burners": 4,
+        "childLock": true
+      }
+    },
+    {
+      "id": "exiteq-2409",
+      "groupId": "hob",
+      "name": "Индукционная варочная панель EXITEQ EXH-520IB",
+      "series": "Индукционные панели",
+      "description": "Индукционная · 4 конфорки · 60 см",
+      "price": 1199,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2409/exh-520ib-black-01.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/varochnyie-poverxnosti/induction/exh-520ib/",
+      "attributes": {
+        "power": "induction",
+        "width": 60,
+        "burners": 4,
+        "childLock": true
+      }
+    },
+    {
+      "id": "exiteq-1352",
+      "groupId": "hood",
+      "name": "Наклонная кухонная вытяжка EXITEQ EX-1156 black",
+      "series": "Наклонные вытяжки",
+      "description": "Наклонная · 60 см",
+      "price": 599,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1352/ex-1156-black.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/dekorativnyie/ex-1156/",
+      "attributes": {
+        "installation": "angled",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1354",
+      "groupId": "hood",
+      "name": "Наклонная кухонная вытяжка EXITEQ EX-1025 black",
+      "series": "Наклонные вытяжки",
+      "description": "Наклонная · 50 см",
+      "price": 399,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1354/ex-1025.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/dekorativnyie/ex-1025-black/",
+      "attributes": {
+        "installation": "angled",
+        "width": 50
+      }
+    },
+    {
+      "id": "exiteq-1355",
+      "groupId": "hood",
+      "name": "Вытяжка кухонная EXITEQ EX-1036 sensor inox",
+      "series": "Т-образные вытяжки",
+      "description": "Т-образная · 60 см",
+      "price": 579,
+      "currency": "BYN",
+      "color": "steel",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1355/ex-1036-2.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/t-obraznyie/ex-1036-sensor-inox/",
+      "attributes": {
+        "installation": "t-shaped",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1356",
+      "groupId": "hood",
+      "name": "Наклонная кухонная вытяжка EXITEQ EX-1156 white",
+      "series": "Наклонные вытяжки",
+      "description": "Наклонная · 60 см",
+      "price": 629,
+      "currency": "BYN",
+      "color": "white",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1356/ex-1156-white.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/dekorativnyie/exiteq-ex-1156-white/",
+      "attributes": {
+        "installation": "angled",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1358",
+      "groupId": "hood",
+      "name": "Плоская вытяжка EXITEQ EX-1056 white",
+      "series": "Плоские вытяжки",
+      "description": "Плоская · 60 см",
+      "price": 259,
+      "currency": "BYN",
+      "color": "white",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1358/ex-1056-white6.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/ploskie/ex-1056-white/",
+      "attributes": {
+        "installation": "flat",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1359",
+      "groupId": "hood",
+      "name": "Плоская вытяжка EXITEQ EX-1056 inox",
+      "series": "Плоские вытяжки",
+      "description": "Плоская · 60 см",
+      "price": 259,
+      "currency": "BYN",
+      "color": "steel",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1359/ex-1056-inox-01.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/ploskie/ex-1056-inox/",
+      "attributes": {
+        "installation": "flat",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1360",
+      "groupId": "hood",
+      "name": "Вытяжка кухонная EXITEQ EX-1069",
+      "series": "Т-образные вытяжки",
+      "description": "Т-образная · 90 см",
+      "price": 829,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1360/ex-1069-(2).png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/t-obraznyie/ex-1069/",
+      "attributes": {
+        "installation": "t-shaped",
+        "width": 90
+      }
+    },
+    {
+      "id": "exiteq-1361",
+      "groupId": "hood",
+      "name": "Встраиваемая вытяжка EXITEQ EX-1075",
+      "series": "Телескопические вытяжки",
+      "description": "Телескопическая · 50 см",
+      "price": 299,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1361/ex-1075.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/teleskopicheskie-vstraivaemyie-vyityazhki-exiteq/ex-1075/",
+      "attributes": {
+        "installation": "telescopic",
+        "width": 50
+      }
+    },
+    {
+      "id": "exiteq-1362",
+      "groupId": "hood",
+      "name": "Встраиваемая вытяжка EXITEQ EX-1076 inox",
+      "series": "Телескопические вытяжки",
+      "description": "Телескопическая · 60 см",
+      "price": 299,
+      "currency": "BYN",
+      "color": "steel",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1362/ex-1075.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/teleskopicheskie-vstraivaemyie-vyityazhki-exiteq/1076/",
+      "attributes": {
+        "installation": "telescopic",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1363",
+      "groupId": "hood",
+      "name": "Купольная вытяжка EXITEQ EX-1086 inox",
+      "series": "Купольные вытяжки",
+      "description": "Купольная · 60 см",
+      "price": 329,
+      "currency": "BYN",
+      "color": "steel",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1363/ex-1086-inox.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/kupolnyie/ex-1086-inox/",
+      "attributes": {
+        "installation": "dome",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1364",
+      "groupId": "hood",
+      "name": "Купольная вытяжка EXITEQ EX-1086 white",
+      "series": "Купольные вытяжки",
+      "description": "Купольная · 60 см",
+      "price": 299,
+      "currency": "BYN",
+      "color": "white",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1364/ex-1086-white.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/kupolnyie/ex-1086white(avrora)/",
+      "attributes": {
+        "installation": "dome",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1368",
+      "groupId": "hood",
+      "name": "Вытяжка кухонная EXITEQ EX-1076 black glass",
+      "series": "Телескопические вытяжки",
+      "description": "Телескопическая · 60 см",
+      "price": 319,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1368/ex-1076-black-glass.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/teleskopicheskie-vstraivaemyie-vyityazhki-exiteq/ex-1076-black-glass/",
+      "attributes": {
+        "installation": "telescopic",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1369",
+      "groupId": "hood",
+      "name": "Вытяжка кухонная EXITEQ EX-1096 inox",
+      "series": "Т-образные вытяжки",
+      "description": "Т-образная · 60 см",
+      "price": 659,
+      "currency": "BYN",
+      "color": "steel",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1369/ex-1096-1.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/t-obraznyie/ex-1096-inox/",
+      "attributes": {
+        "installation": "t-shaped",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1370",
+      "groupId": "hood",
+      "name": "Вытяжка кухонная EXITEQ EX-1076 white glass",
+      "series": "Телескопические вытяжки",
+      "description": "Телескопическая · 60 см",
+      "price": 329,
+      "currency": "BYN",
+      "color": "white",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1370/ex-1076-white-glass.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/teleskopicheskie-vstraivaemyie-vyityazhki-exiteq/ex-1076-white-glass/",
+      "attributes": {
+        "installation": "telescopic",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1372",
+      "groupId": "hood",
+      "name": "Наклонная кухонная вытяжка EXITEQ EX-1116 black",
+      "series": "Наклонные вытяжки",
+      "description": "Наклонная · 60 см",
+      "price": 549,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1372/ex-1116-black-1.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/dekorativnyie/ex-1116-black/",
+      "attributes": {
+        "installation": "angled",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1374",
+      "groupId": "hood",
+      "name": "Наклонная кухонная вытяжка EXITEQ EX-1126 black",
+      "series": "Наклонные вытяжки",
+      "description": "Наклонная · 60 см",
+      "price": 659,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1374/ex-1126-black-2.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/dekorativnyie/ex-1126-black/",
+      "attributes": {
+        "installation": "angled",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1375",
+      "groupId": "hood",
+      "name": "Наклонная кухонная вытяжка EXITEQ EX-1126 white",
+      "series": "Наклонные вытяжки",
+      "description": "Наклонная · 60 см",
+      "price": 599,
+      "currency": "BYN",
+      "color": "white",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1375/ex-1126-white(aura)-(2).jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/dekorativnyie/ex-1126/",
+      "attributes": {
+        "installation": "angled",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1376",
+      "groupId": "hood",
+      "name": "Встраиваемая вытяжка EXITEQ EX-1136",
+      "series": "Телескопические вытяжки",
+      "description": "Телескопическая · 60 см",
+      "price": 349,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1376/ex-1136-2.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/teleskopicheskie-vstraivaemyie-vyityazhki-exiteq/ex-1136/",
+      "attributes": {
+        "installation": "telescopic",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1377",
+      "groupId": "hood",
+      "name": "Встраиваемая вытяжка EXITEQ EX-1146 white",
+      "series": "Телескопические вытяжки",
+      "description": "Телескопическая · 60 см",
+      "price": 499,
+      "currency": "BYN",
+      "color": "white",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1377/ex-1146-1.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/teleskopicheskie-vstraivaemyie-vyityazhki-exiteq/ex-1146-white/",
+      "attributes": {
+        "installation": "telescopic",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1411",
+      "groupId": "hood",
+      "name": "Наклонная кухонная вытяжка EXITEQ EX-1155 white",
+      "series": "Наклонные вытяжки",
+      "description": "Наклонная · 50 см",
+      "price": 599,
+      "currency": "BYN",
+      "color": "white",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1411/ex-1156-white-(tifani).jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/dekorativnyie/ex-1155-white/",
+      "attributes": {
+        "installation": "angled",
+        "width": 50
+      }
+    },
+    {
+      "id": "exiteq-1412",
+      "groupId": "hood",
+      "name": "Полновстраиваемая вытяжка EXITEQ EX-1146 black",
+      "series": "Телескопические вытяжки",
+      "description": "Телескопическая · 60 см",
+      "price": 499,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1412/ex-1146-black-01.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/teleskopicheskie-vstraivaemyie-vyityazhki-exiteq/ex-1146-black/",
+      "attributes": {
+        "installation": "telescopic",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1413",
+      "groupId": "hood",
+      "name": "Встраиваемая вытяжка EXITEQ EX-1176",
+      "series": "Полновстраиваемые вытяжки",
+      "description": "Полновстраиваемая · 60 см",
+      "price": 359,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1413/1176-foto-na-sajt.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/polnovstraivaemyie/ex-1176/",
+      "attributes": {
+        "installation": "fully-integrated",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1422",
+      "groupId": "hood",
+      "name": "Наклонная кухонная вытяжка EXITEQ EX-1166 black",
+      "series": "Наклонные вытяжки",
+      "description": "Наклонная · 60 см",
+      "price": 399,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1422/ex-1166-4.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/dekorativnyie/ex-1166-black/",
+      "attributes": {
+        "installation": "angled",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1445",
+      "groupId": "hood",
+      "name": "Наклонная кухонная вытяжка EXITEQ EX-1025 white",
+      "series": "Наклонные вытяжки",
+      "description": "Наклонная · 50 см",
+      "price": 419,
+      "currency": "BYN",
+      "color": "white",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1445/ex-1025-white-1.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/dekorativnyie/ex-1025-white/",
+      "attributes": {
+        "installation": "angled",
+        "width": 50
+      }
+    },
+    {
+      "id": "exiteq-1452",
+      "groupId": "hood",
+      "name": "Наклонная кухонная вытяжка EXITEQ EX-1129 black",
+      "series": "Наклонные вытяжки",
+      "description": "Наклонная · 90 см",
+      "price": 749,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1452/ex-1129-black-1.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/dekorativnyie/ex-1129-black/",
+      "attributes": {
+        "installation": "angled",
+        "width": 90
+      }
+    },
+    {
+      "id": "exiteq-1453",
+      "groupId": "hood",
+      "name": "Наклонная вытяжка EXITEQ EX-1226 black",
+      "series": "Наклонные вытяжки",
+      "description": "Наклонная · 60 см",
+      "price": 399,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1453/ex-1226-black-0.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/dekorativnyie/ex-1226-black/",
+      "attributes": {
+        "installation": "angled",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1454",
+      "groupId": "hood",
+      "name": "Встраиваемая кухонная вытяжка EXITEQ EX-1236 black",
+      "series": "Полновстраиваемые вытяжки",
+      "description": "Полновстраиваемая · 60 см",
+      "price": 549,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1454/ex-1236-black0.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/polnovstraivaemyie/ex-1236-black/",
+      "attributes": {
+        "installation": "fully-integrated",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1455",
+      "groupId": "hood",
+      "name": "Встраиваемая вытяжка EXITEQ EX-1236 white",
+      "series": "Полновстраиваемые вытяжки",
+      "description": "Полновстраиваемая · 60 см",
+      "price": 589,
+      "currency": "BYN",
+      "color": "white",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1455/ex-1236-white0.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/polnovstraivaemyie/ex-1236-white/",
+      "attributes": {
+        "installation": "fully-integrated",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1456",
+      "groupId": "hood",
+      "name": "Встраиваемая вытяжка EXITEQ EX-1246 black",
+      "series": "Полновстраиваемые вытяжки",
+      "description": "Полновстраиваемая · 60 см",
+      "price": 429,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1456/ex-1246-blackf-00.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/polnovstraivaemyie/ex-1246-black/",
+      "attributes": {
+        "installation": "fully-integrated",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1537",
+      "groupId": "hood",
+      "name": "Встраиваемая вытяжка EXITEQ EX-1145 black",
+      "series": "Телескопические вытяжки",
+      "description": "Телескопическая · 50 см",
+      "price": 459,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1537/ex-1145-black-1.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/teleskopicheskie-vstraivaemyie-vyityazhki-exiteq/ex-1145-black/",
+      "attributes": {
+        "installation": "telescopic",
+        "width": 50
+      }
+    },
+    {
+      "id": "exiteq-1554",
+      "groupId": "hood",
+      "name": "Вытяжка кухонная EXITEQ EX-1075 white glass",
+      "series": "Телескопические вытяжки",
+      "description": "Телескопическая · 50 см",
+      "price": 309,
+      "currency": "BYN",
+      "color": "white",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1554/ex-1075-white-glass-1.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/teleskopicheskie-vstraivaemyie-vyityazhki-exiteq/ex-1075-white-glass/",
+      "attributes": {
+        "installation": "telescopic",
+        "width": 50
+      }
+    },
+    {
+      "id": "exiteq-1555",
+      "groupId": "hood",
+      "name": "Встраиваемая вытяжка EXITEQ EX-1246 white",
+      "series": "Полновстраиваемые вытяжки",
+      "description": "Полновстраиваемая · 60 см",
+      "price": 449,
+      "currency": "BYN",
+      "color": "white",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1555/ex-1246-white-1.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/polnovstraivaemyie/ex-1246-white/",
+      "attributes": {
+        "installation": "fully-integrated",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1565",
+      "groupId": "hood",
+      "name": "Встраиваемая вытяжка EXITEQ EX-1176 white",
+      "series": "Полновстраиваемые вытяжки",
+      "description": "Полновстраиваемая · 60 см",
+      "price": 359,
+      "currency": "BYN",
+      "color": "white",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1565/ex-1176-white-1.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/polnovstraivaemyie/ex-1176-white/",
+      "attributes": {
+        "installation": "fully-integrated",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1596",
+      "groupId": "hood",
+      "name": "Встраиваемая вытяжка EXITEQ EX-1179",
+      "series": "Полновстраиваемые вытяжки",
+      "description": "Полновстраиваемая · 90 см",
+      "price": 409,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1596/ex-1179-2.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/polnovstraivaemyie/ex-1179/",
+      "attributes": {
+        "installation": "fully-integrated",
+        "width": 90
+      }
+    },
+    {
+      "id": "exiteq-1609",
+      "groupId": "hood",
+      "name": "Встраиваемая вытяжка EXITEQ EX-1266",
+      "series": "Полновстраиваемые вытяжки",
+      "description": "Полновстраиваемая · 60 см",
+      "price": 369,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1609/ex-1266b-02.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/polnovstraivaemyie/ex-1266/",
+      "attributes": {
+        "installation": "fully-integrated",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1610",
+      "groupId": "hood",
+      "name": "EX-1276",
+      "series": "Полновстраиваемые вытяжки",
+      "description": "Полновстраиваемая · 60 см",
+      "price": 279,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1610/ex-1276-3.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/polnovstraivaemyie/ex-1276/",
+      "attributes": {
+        "installation": "fully-integrated",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1748",
+      "groupId": "hood",
+      "name": "Встраиваемая вытяжка EXITEQ EX-1145 white",
+      "series": "Телескопические вытяжки",
+      "description": "Телескопическая · 50 см",
+      "price": 459,
+      "currency": "BYN",
+      "color": "white",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1748/ex-1146-1(adonis).jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/teleskopicheskie-vstraivaemyie-vyityazhki-exiteq/ex-1145-white/",
+      "attributes": {
+        "installation": "telescopic",
+        "width": 50
+      }
+    },
+    {
+      "id": "exiteq-1982",
+      "groupId": "hood",
+      "name": "Встраиваемая кухонная вытяжка EXITEQ EX-1286 black",
+      "series": "Полновстраиваемые вытяжки",
+      "description": "Полновстраиваемая · 60 см",
+      "price": 649,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1982/ex-1286-black-1.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/polnovstraivaemyie/ex-1286-black/",
+      "attributes": {
+        "installation": "fully-integrated",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1983",
+      "groupId": "hood",
+      "name": "Встраиваемая кухонная вытяжка EXITEQ EX-1286 white",
+      "series": "Полновстраиваемые вытяжки",
+      "description": "Полновстраиваемая · 60 см",
+      "price": 699,
+      "currency": "BYN",
+      "color": "white",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1983/1286-white-1.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/polnovstraivaemyie/ex-1286-white/",
+      "attributes": {
+        "installation": "fully-integrated",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1990",
+      "groupId": "hood",
+      "name": "Вытяжка кухонная EXITEQ EX-1296 Black",
+      "series": "Цилиндрические вытяжки",
+      "description": "Цилиндрическая · 60 см",
+      "price": 879,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1990/ex-1296-black-01.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/cilindricheskie-vytyazhki/ex-1296-black/",
+      "attributes": {
+        "installation": "cylindrical",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1991",
+      "groupId": "hood",
+      "name": "Вытяжка кухонная EXITEQ EX-1296 White",
+      "series": "Цилиндрические вытяжки",
+      "description": "Цилиндрическая · 60 см",
+      "price": 899,
+      "currency": "BYN",
+      "color": "white",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1991/ex-1296-black-1.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/cilindricheskie-vytyazhki/ex-1296-white/",
+      "attributes": {
+        "installation": "cylindrical",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-2064",
+      "groupId": "hood",
+      "name": "Встраиваемая вытяжка EXITEQ EX-1376",
+      "series": "Полновстраиваемые вытяжки",
+      "description": "Полновстраиваемая · 60 см",
+      "price": 229,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2064/1176-foto-na-sajt1.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/polnovstraivaemyie/ex-1376/",
+      "attributes": {
+        "installation": "fully-integrated",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-2099",
+      "groupId": "hood",
+      "name": "Вытяжка кухонная EXITEQ EX-1306 Black",
+      "series": "Цилиндрические вытяжки",
+      "description": "Цилиндрическая · 60 см",
+      "price": 1199,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2099/ex-1306-rgb.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/cilindricheskie-vytyazhki/czilindricheskaya-kuxonnaya-vyityazhka-exiteq-ex-1306-black/",
+      "attributes": {
+        "installation": "cylindrical",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-2100",
+      "groupId": "hood",
+      "name": "Встраиваемая кухонная вытяжка EXITEQ EX-1289",
+      "series": "Полновстраиваемые вытяжки",
+      "description": "Полновстраиваемая · 90 см",
+      "price": 739,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2100/ex-1289b-0.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/polnovstraivaemyie/ex-1289/",
+      "attributes": {
+        "installation": "fully-integrated",
+        "width": 90
+      }
+    },
+    {
+      "id": "exiteq-2212",
+      "groupId": "hood",
+      "name": "Встраиваемая кухонная вытяжка EXITEQ EX-1446 black",
+      "series": "Полновстраиваемые вытяжки",
+      "description": "Полновстраиваемая · 60 см",
+      "price": 299,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2212/ex-1446-02.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/polnovstraivaemyie/ex-1446-black/",
+      "attributes": {
+        "installation": "fully-integrated",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-2213",
+      "groupId": "hood",
+      "name": "Встраиваемая кухонная вытяжка EXITEQ EX-1446 white",
+      "series": "Полновстраиваемые вытяжки",
+      "description": "Полновстраиваемая · 60 см",
+      "price": 299,
+      "currency": "BYN",
+      "color": "white",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2213/ex-1446-white-0-1.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/polnovstraivaemyie/ex-1446-white/",
+      "attributes": {
+        "installation": "fully-integrated",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-2214",
+      "groupId": "hood",
+      "name": "Встраиваемая кухонная вытяжка EXITEQ EX-1446 inox",
+      "series": "Полновстраиваемые вытяжки",
+      "description": "Полновстраиваемая · 60 см",
+      "price": 299,
+      "currency": "BYN",
+      "color": "steel",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2214/ex-1446-inox-0-1.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/polnovstraivaemyie/ex-1446-inox/",
+      "attributes": {
+        "installation": "fully-integrated",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-2217",
+      "groupId": "hood",
+      "name": "Встраиваемая кухонная вытяжка EXITEQ EX-1346 black",
+      "series": "Полновстраиваемые вытяжки",
+      "description": "Полновстраиваемая · 60 см",
+      "price": 339,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2217/ex-1346-black-0.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/polnovstraivaemyie/ex-1346-black/",
+      "attributes": {
+        "installation": "fully-integrated",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-2218",
+      "groupId": "hood",
+      "name": "Телескопическая вытяжка EXITEQ EX-1416 black",
+      "series": "Телескопические вытяжки",
+      "description": "Телескопическая · 60 см",
+      "price": 419,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2218/ex-1416-01.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/teleskopicheskie-vstraivaemyie-vyityazhki-exiteq/ex-1416-black/",
+      "attributes": {
+        "installation": "telescopic",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-2219",
+      "groupId": "hood",
+      "name": "Наклонная кухонная вытяжка EXITEQ EX-1466black",
+      "series": "Наклонные вытяжки",
+      "description": "Наклонная · 60 см",
+      "price": 499,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2219/ex-1466-marengo-02.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/dekorativnyie/ex-1466-black/",
+      "attributes": {
+        "installation": "angled",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-2221",
+      "groupId": "hood",
+      "name": "Вытяжка кухонная EXITEQ EX-1406 Black",
+      "series": "Цилиндрические вытяжки",
+      "description": "Цилиндрическая · 60 см",
+      "price": 1199,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2221/45633-kopiya.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/cilindricheskie-vytyazhki/ex-1406-black/",
+      "attributes": {
+        "installation": "cylindrical",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-2225",
+      "groupId": "hood",
+      "name": "Наклонная кухонная вытяжка EXITEQ EX-1426 black",
+      "series": "Наклонные вытяжки",
+      "description": "Наклонная · 60 см",
+      "price": 699,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2225/ex-1426-black-00.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/dekorativnyie/ex-1426-black/",
+      "attributes": {
+        "installation": "angled",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-2226",
+      "groupId": "hood",
+      "name": "Встраиваемая вытяжка EXITEQ EX-1436 black",
+      "series": "Полновстраиваемые вытяжки",
+      "description": "Полновстраиваемая · 60 см",
+      "price": 529,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2226/ex-1436-01.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/polnovstraivaemyie/ex-1436-black/",
+      "attributes": {
+        "installation": "fully-integrated",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-2227",
+      "groupId": "hood",
+      "name": "EX-1476",
+      "series": "Полновстраиваемые вытяжки",
+      "description": "Полновстраиваемая · 60 см",
+      "price": 499,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2227/ex-1476-black-1200.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/polnovstraivaemyie/ex-1476/",
+      "attributes": {
+        "installation": "fully-integrated",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-2228",
+      "groupId": "hood",
+      "name": "Вытяжка кухонная EXITEQ EX-1096 black",
+      "series": "Т-образные вытяжки",
+      "description": "Т-образная · 60 см",
+      "price": 699,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2228/ex-1096-black-00.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/t-obraznyie/ex-1096-black/",
+      "attributes": {
+        "installation": "t-shaped",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-2242",
+      "groupId": "hood",
+      "name": "Вытяжка кухонная EXITEQ EX-1459 white",
+      "series": "Островные вытяжки",
+      "description": "Островная · 90 см",
+      "price": 1799,
+      "currency": "BYN",
+      "color": "white",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2242/ex-1459-0.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/ostrovnyie/ex-1459-white/",
+      "attributes": {
+        "installation": "island",
+        "width": 90
+      }
+    },
+    {
+      "id": "exiteq-2351",
+      "groupId": "hood",
+      "name": "Встраиваемая кухонная вытяжка EXITEQ EX-6026 black",
+      "series": "Полновстраиваемые вытяжки",
+      "description": "Полновстраиваемая · 60 см",
+      "price": 519,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2351/ex-6026-black-01-0-0.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/polnovstraivaemyie/ex-6026-black/",
+      "attributes": {
+        "installation": "fully-integrated",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-2353",
+      "groupId": "hood",
+      "name": "Встраиваемая кухонная вытяжка EXITEQ EX-6016 black",
+      "series": "Полновстраиваемые вытяжки",
+      "description": "Полновстраиваемая · 60 см",
+      "price": 449,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2353/ex-6016-02-0.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/polnovstraivaemyie/ex-6016-black/",
+      "attributes": {
+        "installation": "fully-integrated",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-2354",
+      "groupId": "hood",
+      "name": "Встраиваемая кухонная вытяжка EXITEQ EX-6036 black",
+      "series": "Полновстраиваемые вытяжки",
+      "description": "Полновстраиваемая · 60 см",
+      "price": 549,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2354/ex-6036-01-02-0.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/polnovstraivaemyie/ex-6036-black/",
+      "attributes": {
+        "installation": "fully-integrated",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-2356",
+      "groupId": "hood",
+      "name": "Встраиваемая кухонная вытяжка EXITEQ EX-6056 black",
+      "series": "Полновстраиваемые вытяжки",
+      "description": "Полновстраиваемая · 60 см",
+      "price": 539,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2356/ex-6056-02.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/polnovstraivaemyie/ex-6056-black/",
+      "attributes": {
+        "installation": "fully-integrated",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-2357",
+      "groupId": "hood",
+      "name": "Встраиваемая кухонная вытяжка EXITEQ EX-6076 black",
+      "series": "Полновстраиваемые вытяжки",
+      "description": "Полновстраиваемая · 60 см",
+      "price": 409,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2357/ex-6076-03-0.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/polnovstraivaemyie/ex-6076-black/",
+      "attributes": {
+        "installation": "fully-integrated",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-2362",
+      "groupId": "hood",
+      "name": "Встраиваемая кухонная вытяжка EXITEQ EX-1506 black",
+      "series": "Полновстраиваемые вытяжки",
+      "description": "Полновстраиваемая · 60 см",
+      "price": 669,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2362/ex-1506-09.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/polnovstraivaemyie/ex-1506-black/",
+      "attributes": {
+        "installation": "fully-integrated",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-2376",
+      "groupId": "hood",
+      "name": "Встраиваемая кухонная вытяжка EXITEQ EX-1516 black",
+      "series": "Полновстраиваемые вытяжки",
+      "description": "Полновстраиваемая · 60 см",
+      "price": 669,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2376/ex-1516-01.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/polnovstraivaemyie/ex-1516-black/",
+      "attributes": {
+        "installation": "fully-integrated",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-2378",
+      "groupId": "hood",
+      "name": "Телескопическая вытяжка EXITEQ EX-1536 black",
+      "series": "Телескопические вытяжки",
+      "description": "Телескопическая · 60 см",
+      "price": 599,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2378/ex-1536-01.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/teleskopicheskie-vstraivaemyie-vyityazhki-exiteq/ex-1536-black/",
+      "attributes": {
+        "installation": "telescopic",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-2381",
+      "groupId": "hood",
+      "name": "Встраиваемая вытяжка EXITEQ EX-1436 white",
+      "series": "Полновстраиваемые вытяжки",
+      "description": "Полновстраиваемая · 60 см",
+      "price": 599,
+      "currency": "BYN",
+      "color": "white",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2381/ex-1436-white-03.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/polnovstraivaemyie/ex-1436-white/",
+      "attributes": {
+        "installation": "fully-integrated",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-2382",
+      "groupId": "hood",
+      "name": "Встраиваемая кухонная вытяжка EXITEQ EX-1525 black",
+      "series": "Полновстраиваемые вытяжки",
+      "description": "Полновстраиваемая · 50 см",
+      "price": 249,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2382/ex-1525-balck-03.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/polnovstraivaemyie/ex-1525-black/",
+      "attributes": {
+        "installation": "fully-integrated",
+        "width": 50
+      }
+    },
+    {
+      "id": "exiteq-2397",
+      "groupId": "hood",
+      "name": "Встраиваемая кухонная вытяжка EXITEQ EX-6076 white",
+      "series": "Полновстраиваемые вытяжки",
+      "description": "Полновстраиваемая · 60 см",
+      "price": 429,
+      "currency": "BYN",
+      "color": "white",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2397/ex-6076-white-06.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/polnovstraivaemyie/ex-6076-white/",
+      "attributes": {
+        "installation": "fully-integrated",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-2402",
+      "groupId": "hood",
+      "name": "Встраиваемая кухонная вытяжка EXITEQ EX-7016 black",
+      "series": "Полновстраиваемые вытяжки",
+      "description": "Полновстраиваемая · 60 см",
+      "price": 569,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2402/ex-7016-black-01-1.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/polnovstraivaemyie/ex-7016-black/",
+      "attributes": {
+        "installation": "fully-integrated",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-2403",
+      "groupId": "hood",
+      "name": "Встраиваемая кухонная вытяжка EXITEQ EX-7016 white",
+      "series": "Полновстраиваемые вытяжки",
+      "description": "Полновстраиваемая · 60 см",
+      "price": 599,
+      "currency": "BYN",
+      "color": "white",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2403/ex-7016-white-08-1.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/cooker-hood/polnovstraivaemyie/ex-7016-white/",
+      "attributes": {
+        "installation": "fully-integrated",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1108",
+      "groupId": "dishwasher",
+      "name": "Настольная посудомоечная машина EXITEQ EXDW-T502",
+      "series": "Посудомоечные машины",
+      "description": "Настольная · 55 см",
+      "price": 999,
+      "currency": "BYN",
+      "color": "steel",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1108/t502-0-—-sajt.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/posudomoechnyie-mashinyi/exdw-t502/",
+      "attributes": {
+        "installation": "freestanding",
+        "width": 55
+      }
+    },
+    {
+      "id": "exiteq-1611",
+      "groupId": "dishwasher",
+      "name": "Встраиваемая посудомоечная машина EXITEQ EXDW-I606",
+      "series": "Посудомоечные машины",
+      "description": "Встраиваемая · 60 см",
+      "price": 1949,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1611/exdw-i606-1.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/posudomoechnyie-mashinyi/exdw-i606/",
+      "attributes": {
+        "installation": "integrated",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1612",
+      "groupId": "dishwasher",
+      "name": "Встраиваемая посудомоечная машина EXITEQ EXDW-I406",
+      "series": "Посудомоечные машины",
+      "description": "Встраиваемая · 45 см",
+      "price": 1699,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1612/exdw-i406-1.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/posudomoechnyie-mashinyi/exdw-i406/",
+      "attributes": {
+        "installation": "integrated",
+        "width": 45
+      }
+    },
+    {
+      "id": "exiteq-2070",
+      "groupId": "dishwasher",
+      "name": "Встраиваемая посудомоечная машина EXITEQ EXDW-I407",
+      "series": "Посудомоечные машины",
+      "description": "Встраиваемая · 45 см",
+      "price": 1399,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2070/exdw-i407-12.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/posudomoechnyie-mashinyi/exdw-i407/",
+      "attributes": {
+        "installation": "integrated",
+        "width": 45
+      }
+    },
+    {
+      "id": "exiteq-2071",
+      "groupId": "dishwasher",
+      "name": "Встраиваемая посудомоечная машина EXITEQ EXDW-I607",
+      "series": "Посудомоечные машины",
+      "description": "Встраиваемая · 60 см",
+      "price": 1499,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2071/exdw-i607-6.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/posudomoechnyie-mashinyi/exdw-i607/",
+      "attributes": {
+        "installation": "integrated",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-2072",
+      "groupId": "dishwasher",
+      "name": "Встраиваемая посудомоечная машина EXITEQ EXDW-I608",
+      "series": "Посудомоечные машины",
+      "description": "Встраиваемая · 60 см",
+      "price": 1249,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2072/exdw-i608-8.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/posudomoechnyie-mashinyi/exdw-i608/",
+      "attributes": {
+        "installation": "integrated",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-2335",
+      "groupId": "dishwasher",
+      "name": "Встраиваемая посудомоечная машина EXITEQ EXDW-I610",
+      "series": "Посудомоечные машины",
+      "description": "Встраиваемая · 60 см",
+      "price": 1999,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2335/50584.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/posudomoechnyie-mashinyi/exdw-i610/",
+      "attributes": {
+        "installation": "integrated",
+        "width": 60
+      }
+    },
+    {
+      "id": "exiteq-1125",
+      "groupId": "microwave",
+      "name": "Встраиваемая микроволновая печь EXITEQ EXM-105",
+      "series": "Микроволновые печи",
+      "description": "Встраиваемая · 25 л · с грилем",
+      "price": 929,
+      "currency": "BYN",
+      "color": "steel",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1125/exm-105-inox-1.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/microwave-oven/exm-105/",
+      "attributes": {
+        "installation": "integrated",
+        "grill": true,
+        "volume": 25
+      }
+    },
+    {
+      "id": "exiteq-1291",
+      "groupId": "microwave",
+      "name": "Встраиваемая микроволновая печь EXITEQ EXM-107",
+      "series": "Микроволновые печи",
+      "description": "Встраиваемая · 25 л · с грилем",
+      "price": 929,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1291/dsc00762.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/microwave-oven/exm-107/",
+      "attributes": {
+        "installation": "integrated",
+        "grill": true,
+        "volume": 25
+      }
+    },
+    {
+      "id": "exiteq-1292",
+      "groupId": "microwave",
+      "name": "Встраиваемая микроволновая печь EXITEQ EXM-106 black",
+      "series": "Микроволновые печи",
+      "description": "Встраиваемая · 25 л · с грилем",
+      "price": 1099,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1292/dsc00821.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/microwave-oven/exm-106/",
+      "attributes": {
+        "installation": "integrated",
+        "grill": true,
+        "volume": 25
+      }
+    },
+    {
+      "id": "exiteq-1293",
+      "groupId": "microwave",
+      "name": "Встраиваемая микроволновая печь EXITEQ EXM-106 white",
+      "series": "Микроволновые печи",
+      "description": "Встраиваемая · 25 л · с грилем",
+      "price": 1099,
+      "currency": "BYN",
+      "color": "white",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1293/exm-106white-1.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/microwave-oven/exm-106-white/",
+      "attributes": {
+        "installation": "integrated",
+        "grill": true,
+        "volume": 25
+      }
+    },
+    {
+      "id": "exiteq-1624",
+      "groupId": "microwave",
+      "name": "Встраиваемая микроволновая печь EXITEQ EXM-108",
+      "series": "Микроволновые печи",
+      "description": "Встраиваемая · 20 л · с грилем",
+      "price": 799,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1624/exm-108-1.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/microwave-oven/exm-108/",
+      "attributes": {
+        "installation": "integrated",
+        "grill": true,
+        "volume": 20
+      }
+    },
+    {
+      "id": "exiteq-1783",
+      "groupId": "microwave",
+      "name": "Встраиваемая микроволновая печь EXITEQ EXM-108 white",
+      "series": "Микроволновые печи",
+      "description": "Встраиваемая · 20 л · с грилем",
+      "price": 799,
+      "currency": "BYN",
+      "color": "white",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1783/dsc02039.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/microwave-oven/exm-108-white/",
+      "attributes": {
+        "installation": "integrated",
+        "grill": true,
+        "volume": 20
+      }
+    },
+    {
+      "id": "exiteq-2245",
+      "groupId": "microwave",
+      "name": "Встраиваемая микроволновая печь EXITEQ EXM-109 black",
+      "series": "Микроволновые печи",
+      "description": "Встраиваемая · 25 л · с грилем",
+      "price": 999,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2245/exm-109-0.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/microwave-oven/exm-109-black/",
+      "attributes": {
+        "installation": "integrated",
+        "grill": true,
+        "volume": 25
+      }
+    },
+    {
+      "id": "exiteq-1599",
+      "groupId": "fridge",
+      "name": "Встраиваемый холодильник EXITEQ EXR-202",
+      "series": "Холодильники",
+      "description": "Холодильник с морозильником · 177 см",
+      "price": 2399,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/1599/exr-202-1.jpg",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/xolodilniki/exr-202/",
+      "attributes": {
+        "installation": "integrated",
+        "kind": "fridge-freezer",
+        "height": 177,
+        "noFrost": true
+      }
+    },
+    {
+      "id": "exiteq-2144",
+      "groupId": "fridge",
+      "name": "Встраиваемый холодильник EXITEQ EXR-203",
+      "series": "Холодильники",
+      "description": "Холодильник с морозильником · 177 см",
+      "price": 2259,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2144/exr-203-00.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/xolodilniki/exr-203/",
+      "attributes": {
+        "installation": "integrated",
+        "kind": "fridge-freezer",
+        "height": 177,
+        "noFrost": false
+      }
+    },
+    {
+      "id": "exiteq-2191",
+      "groupId": "fridge",
+      "name": "Встраиваемый холодильник EXITEQ EXR-206",
+      "series": "Холодильники",
+      "description": "Холодильник с морозильником · 82 см",
+      "price": 1349,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2191/exr-206-03.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/xolodilniki/exr-206/",
+      "attributes": {
+        "installation": "integrated",
+        "kind": "fridge-freezer",
+        "height": 82,
+        "noFrost": false
+      }
+    },
+    {
+      "id": "exiteq-2222",
+      "groupId": "fridge",
+      "name": "Встраиваемый холодильник EXITEQ EXR-204",
+      "series": "Холодильники",
+      "description": "Холодильник · 177 см",
+      "price": 2399,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2222/exr-204-2.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/xolodilniki/exr-204/",
+      "attributes": {
+        "installation": "integrated",
+        "kind": "fridge",
+        "height": 177,
+        "noFrost": false
+      }
+    },
+    {
+      "id": "exiteq-2223",
+      "groupId": "fridge",
+      "name": "Встраиваемый морозильник EXITEQ EXR-205",
+      "series": "Холодильники",
+      "description": "Морозильник · 177 см",
+      "price": 2449,
+      "currency": "BYN",
+      "color": "black",
+      "available": true,
+      "image": "https://exiteq.by/assets/images/products/2223/exr-205-w-01.png",
+      "imageIllustrative": false,
+      "url": "https://exiteq.by/directory/xolodilniki/exr-205/",
+      "attributes": {
+        "installation": "integrated",
+        "kind": "freezer",
+        "height": 177,
+        "noFrost": true
+      }
+    }
+  ]
+}

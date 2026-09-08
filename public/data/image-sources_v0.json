@@ -1,0 +1,95 @@
+{
+  "retrieved_at": "2026-09-07",
+  "source": "Gorenje official Russian manufacturer site",
+  "reuse_info": {
+    "open_license_found": false,
+    "notice": "The source product-page footer states that use of Gorenje brand elements, photos, logos and other media/text materials is possible only with written permission of the intellectual rights holder. No such permission is established by downloading these files.",
+    "source_page": "https://ru.gorenje.com/products/cooking-and-baking/dukhovye-shkafy/OVEN-BUILTIN-BO635E1B/"
+  },
+  "assets": [
+    {
+      "source_page": "https://ru.gorenje.com/products/cooking-and-baking/dukhovye-shkafy/OVEN-BUILTIN-BO635E1B/",
+      "image_url": "https://ru.gorenje.com/upload/machaon/pagespeed/iblock/514/nwfbw0a0xj3tmb3mjbj75b9yvwyw0t22/c0d275125e45d2e1dc9b958526d7c46f_261670_fp.jpg.webp",
+      "content_type": "image/webp",
+      "bytes": 18854,
+      "category": "oven",
+      "model": "Gorenje BO635E1B",
+      "description": "Black built-in oven, straight front view",
+      "width": 1200,
+      "height": 1200,
+      "format": "WEBP",
+      "visually_verified": true,
+      "site_path": "/images/oven.webp"
+    },
+    {
+      "source_page": "https://ru.gorenje.com/products/cooking-and-baking/varochnye-paneli/induktsionnye-paneli/HOB-INDUCTION-GI6432AB/",
+      "image_url": "https://ru.gorenje.com/upload/machaon/pagespeed/iblock/6fe/s84952g9x3t4v4ygt6wxl1l983lsnx85/123446600380cdbef5b395556cbe34e3_345671_fp.jpg.webp",
+      "content_type": "image/webp",
+      "bytes": 12240,
+      "category": "hob",
+      "model": "Gorenje GI6432AB",
+      "description": "Black induction hob, top/front catalog view",
+      "width": 1200,
+      "height": 1200,
+      "format": "WEBP",
+      "visually_verified": true,
+      "site_path": "/images/hob.webp"
+    },
+    {
+      "source_page": "https://ru.gorenje.com/products/cooking-and-baking/vytyazhki/HOOD-CV60BK-E-N6P1L-WHI626E7B-GOR/",
+      "image_url": "https://ru.gorenje.com/upload/machaon/pagespeed/iblock/77b/sd6vorpu9tkfx5jseckqq1kqs3ikuwjt/037e7d2f5c84c921133ef058c4a85175_224789_fp.jpg.webp",
+      "content_type": "image/webp",
+      "bytes": 5516,
+      "category": "hood",
+      "model": "Gorenje WHI626E7B",
+      "description": "Black chimney cooker hood, straight front view",
+      "width": 1200,
+      "height": 1200,
+      "format": "WEBP",
+      "visually_verified": true,
+      "site_path": "/images/hood.webp"
+    },
+    {
+      "source_page": "https://ru.gorenje.com/products/dishes-wasing/posudomoechnye-mashiny/DISHWASH-DW50-1-GV16D5-GOR/",
+      "image_url": "https://ru.gorenje.com/upload/machaon/pagespeed/iblock/4b1/3au1dveni6sm87qudcdt1hx2nqjm5pzq.jpg.webp",
+      "content_type": "image/webp",
+      "bytes": 88878,
+      "category": "dishwasher",
+      "model": "Gorenje GV16D5",
+      "description": "Fully integrated dishwasher, three-quarter view with door open",
+      "width": 1256,
+      "height": 1200,
+      "format": "WEBP",
+      "visually_verified": true,
+      "site_path": "/images/dishwasher.webp"
+    },
+    {
+      "source_page": "https://ru.gorenje.com/products/cooking-and-baking/mikrovolnovye-pechi/OVEN-TG820H3AH-S0CER0-BM201SG3DBG-GOR/",
+      "image_url": "https://ru.gorenje.com/upload/machaon/pagespeed/iblock/ac3/9eeu8r8vp5ulfm5t0918j3rro3kagq48.jpg.webp",
+      "content_type": "image/webp",
+      "bytes": 16682,
+      "category": "microwave",
+      "model": "Gorenje BM201SG3DBG",
+      "description": "Black built-in microwave, straight front view",
+      "width": 1870,
+      "height": 1200,
+      "format": "WEBP",
+      "visually_verified": true,
+      "site_path": "/images/microwave.webp"
+    },
+    {
+      "source_page": "https://ru.gorenje.com/products/cooling/built-in-refrigerators/REFRIG-HZFI26282-NRKI517142-GOR/",
+      "image_url": "https://ru.gorenje.com/upload/machaon/pagespeed/iblock/3f8/6069d61w8mwxiegcsectn4ty4kuwxyzw.jpg.webp",
+      "content_type": "image/webp",
+      "bytes": 11592,
+      "category": "refrigerator",
+      "model": "Gorenje NRKI517142",
+      "description": "Integrated refrigerator, three-quarter view with both doors open",
+      "width": 864,
+      "height": 1200,
+      "format": "WEBP",
+      "visually_verified": true,
+      "site_path": "/images/fridge.webp"
+    }
+  ]
+}

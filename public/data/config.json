@@ -1,0 +1,473 @@
+{
+  "version": 1,
+  "brand": {
+    "name": "EXITEQ",
+    "tagline": "Встраиваемая техника для кухни"
+  },
+  "currency": "BYN",
+  "locale": "ru-BY",
+  "demo": false,
+  "steps": [
+    {
+      "id": "color",
+      "label": "Цвет техники",
+      "target": "color"
+    },
+    {
+      "id": "composition",
+      "label": "Состав комплекта",
+      "target": "composition"
+    },
+    {
+      "id": "budget",
+      "label": "Бюджет",
+      "target": "budget"
+    },
+    {
+      "id": "results",
+      "label": "Ваш комплект",
+      "target": "results"
+    }
+  ],
+  "sections": [
+    {
+      "id": "color",
+      "title": "Цвет техники",
+      "icon": "Palette",
+      "type": "color-select",
+      "area": "configuration",
+      "number": "01",
+      "description": "Один цвет — единый стиль кухни",
+      "options": [
+        {
+          "value": "black",
+          "label": "Чёрный",
+          "swatch": "#262625"
+        },
+        {
+          "value": "white",
+          "label": "Белый",
+          "swatch": "#ffffff"
+        },
+        {
+          "value": "steel",
+          "label": "Сталь",
+          "swatch": "linear-gradient(135deg, #b1b5b6, #ebeeee 46%, #92989b)"
+        }
+      ]
+    },
+    {
+      "id": "composition",
+      "title": "Состав комплекта",
+      "icon": "Layers",
+      "type": "appliance-accordion",
+      "area": "configuration",
+      "number": "02",
+      "description": "Добавьте приборы и выберите параметры"
+    },
+    {
+      "id": "budget",
+      "title": "Бюджет",
+      "icon": "Wallet",
+      "type": "budget-select",
+      "area": "configuration",
+      "number": "03",
+      "description": "Подберём подходящий вариант в каждой категории",
+      "options": [
+        {
+          "value": "economy",
+          "label": "Экономно",
+          "description": "Всё необходимое",
+          "icon": "Leaf",
+          "quantile": 0
+        },
+        {
+          "value": "optimal",
+          "label": "Оптимально",
+          "description": "Баланс цены и функций",
+          "icon": "Scale",
+          "quantile": 0.5
+        },
+        {
+          "value": "premium",
+          "label": "Премиальное",
+          "description": "Максимум возможностей",
+          "icon": "Sparkles",
+          "quantile": 1
+        }
+      ]
+    },
+    {
+      "id": "results",
+      "title": "Ваш комплект",
+      "icon": "PackageCheck",
+      "type": "product-results",
+      "area": "result",
+      "number": "04"
+    },
+    {
+      "id": "summary",
+      "title": "Итого за комплект",
+      "icon": "Receipt",
+      "type": "price-summary",
+      "area": "result"
+    },
+    {
+      "id": "actions",
+      "title": "Оформление комплекта",
+      "icon": "ShoppingBag",
+      "type": "checkout-actions",
+      "area": "result"
+    }
+  ],
+  "groups": [
+    {
+      "id": "oven",
+      "title": "Духовой шкаф",
+      "plural": "Духовые шкафы",
+      "icon": "Microwave",
+      "image": "https://exiteq.by/assets/images/products/1436/exo-303-1.jpg",
+      "colorApplies": true,
+      "defaults": {
+        "width": 60
+      },
+      "fields": [
+        {
+          "id": "width",
+          "label": "Ширина, см",
+          "type": "single",
+          "options": [
+            45,
+            60
+          ],
+          "unit": "см"
+        },
+        {
+          "id": "convection",
+          "label": "Конвекция",
+          "type": "toggle",
+          "advanced": true
+        },
+        {
+          "id": "volume",
+          "label": "Объём, л",
+          "type": "single",
+          "options": [
+            46,
+            69,
+            70,
+            72,
+            73
+          ],
+          "unit": "л",
+          "advanced": true
+        }
+      ]
+    },
+    {
+      "id": "hob",
+      "title": "Варочная панель",
+      "plural": "Варочные панели",
+      "icon": "Grid2X2",
+      "image": "https://exiteq.by/assets/images/products/355/pf640stgw-ea-4.jpg",
+      "colorApplies": true,
+      "defaults": {
+        "power": "induction",
+        "width": 60
+      },
+      "fields": [
+        {
+          "id": "power",
+          "label": "Тип питания",
+          "type": "single",
+          "options": [
+            {
+              "value": "induction",
+              "label": "Индукция"
+            },
+            {
+              "value": "electric",
+              "label": "Электро"
+            },
+            {
+              "value": "gas",
+              "label": "Газ"
+            }
+          ]
+        },
+        {
+          "id": "width",
+          "label": "Ширина, см",
+          "type": "single",
+          "options": [
+            30,
+            45,
+            60,
+            70
+          ],
+          "unit": "см"
+        },
+        {
+          "id": "burners",
+          "label": "Количество конфорок",
+          "type": "single",
+          "options": [
+            2,
+            3,
+            4,
+            5
+          ],
+          "advanced": true
+        },
+        {
+          "id": "childLock",
+          "label": "Защита от детей",
+          "type": "toggle",
+          "advanced": true
+        }
+      ]
+    },
+    {
+      "id": "hood",
+      "title": "Вытяжка",
+      "plural": "Вытяжки",
+      "icon": "Fan",
+      "image": "https://exiteq.by/assets/images/products/1352/ex-1156-black.jpg",
+      "colorApplies": true,
+      "defaults": {
+        "installation": "fully-integrated",
+        "width": 60
+      },
+      "fields": [
+        {
+          "id": "installation",
+          "label": "Тип вытяжки",
+          "type": "single",
+          "options": [
+            {
+              "value": "fully-integrated",
+              "label": "Полновстраиваемая"
+            },
+            {
+              "value": "telescopic",
+              "label": "Телескопическая"
+            },
+            {
+              "value": "angled",
+              "label": "Наклонная"
+            },
+            {
+              "value": "t-shaped",
+              "label": "Т-образная"
+            },
+            {
+              "value": "cylindrical",
+              "label": "Цилиндрическая"
+            },
+            {
+              "value": "dome",
+              "label": "Купольная"
+            },
+            {
+              "value": "flat",
+              "label": "Плоская"
+            },
+            {
+              "value": "island",
+              "label": "Островная"
+            }
+          ]
+        },
+        {
+          "id": "width",
+          "label": "Ширина, см",
+          "type": "single",
+          "options": [
+            50,
+            60,
+            90
+          ],
+          "unit": "см"
+        }
+      ]
+    },
+    {
+      "id": "dishwasher",
+      "title": "Посудомоечная машина",
+      "plural": "Посудомоечные машины",
+      "icon": "WashingMachine",
+      "image": "https://exiteq.by/assets/images/products/1108/t502-0-—-sajt.png",
+      "colorApplies": false,
+      "colorNote": "Встраиваемый прибор скрыт за фасадом — цвет не влияет на подбор.",
+      "defaults": {
+        "installation": "integrated",
+        "width": 60
+      },
+      "fields": [
+        {
+          "id": "installation",
+          "label": "Установка",
+          "type": "single",
+          "options": [
+            {
+              "value": "integrated",
+              "label": "Встраиваемая"
+            },
+            {
+              "value": "freestanding",
+              "label": "Настольная"
+            }
+          ]
+        },
+        {
+          "id": "width",
+          "label": "Ширина, см",
+          "type": "single",
+          "options": [
+            45,
+            55,
+            60
+          ],
+          "unit": "см"
+        }
+      ]
+    },
+    {
+      "id": "microwave",
+      "title": "Микроволновая печь",
+      "plural": "Микроволновые печи",
+      "icon": "PanelTop",
+      "image": "https://exiteq.by/assets/images/products/1125/exm-105-inox-1.png",
+      "colorApplies": true,
+      "defaults": {
+        "installation": "integrated"
+      },
+      "fields": [
+        {
+          "id": "installation",
+          "label": "Установка",
+          "type": "single",
+          "options": [
+            {
+              "value": "integrated",
+              "label": "Встраиваемая"
+            }
+          ],
+          "required": true
+        },
+        {
+          "id": "grill",
+          "label": "Гриль",
+          "type": "toggle",
+          "advanced": true
+        },
+        {
+          "id": "volume",
+          "label": "Объём, л",
+          "type": "single",
+          "options": [
+            20,
+            25
+          ],
+          "unit": "л",
+          "advanced": true
+        }
+      ]
+    },
+    {
+      "id": "fridge",
+      "title": "Холодильник",
+      "plural": "Холодильники и морозильники",
+      "icon": "Refrigerator",
+      "image": "https://exiteq.by/assets/images/products/1599/exr-202-1.jpg",
+      "colorApplies": false,
+      "colorNote": "Прибор скрыт за фасадом — цвет не влияет на подбор.",
+      "defaults": {
+        "installation": "integrated",
+        "kind": "fridge-freezer",
+        "height": 177
+      },
+      "fields": [
+        {
+          "id": "installation",
+          "label": "Установка",
+          "type": "single",
+          "options": [
+            {
+              "value": "integrated",
+              "label": "Встраиваемая"
+            }
+          ],
+          "required": true
+        },
+        {
+          "id": "kind",
+          "label": "Тип техники",
+          "type": "single",
+          "options": [
+            {
+              "value": "fridge-freezer",
+              "label": "Холодильник с морозильником"
+            },
+            {
+              "value": "fridge",
+              "label": "Холодильник"
+            },
+            {
+              "value": "freezer",
+              "label": "Морозильник"
+            }
+          ]
+        },
+        {
+          "id": "height",
+          "label": "Высота, см",
+          "type": "single",
+          "options": [
+            82,
+            177
+          ],
+          "unit": "см"
+        },
+        {
+          "id": "noFrost",
+          "label": "No Frost",
+          "type": "toggle",
+          "advanced": true
+        }
+      ]
+    }
+  ],
+  "discounts": [
+    {
+      "minGroups": 4,
+      "percent": 10
+    },
+    {
+      "minGroups": 3,
+      "percent": 8
+    },
+    {
+      "minGroups": 2,
+      "percent": 5
+    },
+    {
+      "minGroups": 0,
+      "percent": 0
+    }
+  ],
+  "initialState": {
+    "color": "black",
+    "budget": "optimal",
+    "selectedGroups": [
+      "oven",
+      "hob"
+    ]
+  },
+  "integrations": {
+    "cartEndpoint": null,
+    "cartUrl": "https://exiteq.by/korzina/",
+    "productUrlTemplate": null
+  },
+  "priceNotice": "Цены и наличие взяты из актуального каталога exiteq.by. Скидка на комплект: 5% от 2 приборов, 8% от 3, 10% от 4; условия и исключения уточняются при оформлении заказа."
+}
