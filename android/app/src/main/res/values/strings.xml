@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Kitchen Set</string>
+    <string name="title_activity_main">Kitchen Set</string>
+    <string name="package_name">com.exiteq.kitchenset</string>
+    <string name="custom_url_scheme">com.exiteq.kitchenset</string>
+</resources>

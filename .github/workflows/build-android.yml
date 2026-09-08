@@ -1,0 +1,56 @@
+name: Build Android APK
+
+# Скрипт запускается автоматически при каждом push в ветку main
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Скачиваем ваш код из репозитория на виртуальную машину
+      - name: Checkout Source Code
+        uses: actions/checkout@v4
+
+      # 2. Устанавливаем Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: "npm"
+
+      # 3. Устанавливаем Java (необходима для сборки Android)
+      - name: Setup Java JDK
+        uses: actions/setup-java@v4
+        with:
+          distribution: "zulu"
+          java-version: "17"
+
+      # 4. Устанавливаем зависимости вашего проекта (Vue/Next.js)
+      - name: Install Dependencies
+        run: npm ci
+
+      # 5. Собираем статические файлы (веб-версию приложения)
+      - name: Build Web Project
+        run: npm run build
+
+      # 6. Синхронизируем веб-код с папкой Android через Capacitor
+      - name: Capacitor Sync
+        run: |
+          npx cap sync android
+
+      # 7. Запускаем сборку самого Android-приложения через Gradle
+      - name: Build APK via Gradle
+        run: |
+          cd android
+          chmod +x gradlew
+          ./gradlew assembleDebug
+
+      # 8. Сохраняем готовый APK-файл, чтобы его можно было скачать с GitHub
+      - name: Upload Finished APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: app-debug
+          path: android/app/build/outputs/apk/debug/app-debug.apk
